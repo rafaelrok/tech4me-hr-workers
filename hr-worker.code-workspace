@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "ms-payroll"
+    },
+    {
+      "path": "ms-pessoa"
+    },
+    {
+      "path": "ms-user"
+    },
+    {
+      "path": "ms-worker"
+    },
+    {
+      "path": "ms-worker-vue"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
